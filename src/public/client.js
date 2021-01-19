@@ -14,7 +14,7 @@ let store = {
 const root = document.getElementById('root')
 
 /**
-* @description updates store and updates app ui
+* @description updates store and app ui
 * @param {state, state} - Store, new version of store
 */
 const updateStore = (store, newState) => {
